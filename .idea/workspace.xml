@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="664f4253-a39a-42bd-be77-0ae2c6baa7dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YluR9wLC3g57auE35WBgPXPV9R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Amazone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\POMTest\src\test\Resources\BrowserDriver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Amazone" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Dev/POMTest/testng.xml">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserSelector.SetUpBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazone" />
+      <option name="MAIN_CLASS_NAME" value="Test.BrowserSelector" />
+      <option name="METHOD_NAME" value="SetUpBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Dev/POMTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hooks.SetUpBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazone" />
+      <option name="MAIN_CLASS_NAME" value="Test.Hooks" />
+      <option name="METHOD_NAME" value="SetUpBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loadprops.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazone" />
+      <option name="MAIN_CLASS_NAME" value="Test.Loadprops" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Dev/POMTest/testng.xml" />
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="TestNG.BrowserSelector.SetUpBrowser" />
+        <item itemvalue="TestNG.Hooks.SetUpBrowser" />
+        <item itemvalue="TestNG.Loadprops.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="664f4253-a39a-42bd-be77-0ae2c6baa7dd" name="Default Changelist" comment="" />
+      <created>1583529492360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583529492360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Intentions" timestamp="1584188996856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1584188996856" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584105922651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584105922651" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1583606050346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583606050346" />
+    <state width="1323" height="448" key="GridCell.Tab.0.bottom" timestamp="1584189597236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="448" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584189597236" />
+    <state width="1323" height="448" key="GridCell.Tab.0.center" timestamp="1584189597236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="448" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584189597236" />
+    <state width="1323" height="448" key="GridCell.Tab.0.left" timestamp="1584189597236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="448" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584189597236" />
+    <state width="1323" height="448" key="GridCell.Tab.0.right" timestamp="1584189597236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="448" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584189597236" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583609452637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583609452637" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1583609452637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583609452637" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1583609452637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583609452637" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1583609452637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583609452637" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1584188464766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584188464766" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583628118273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583628118273" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1583594171004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583594171004" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584185965328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584185965328" />
+    <state x="65" y="59" key="new project wizard" timestamp="1583663735255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583663735255" />
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583606074458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583606074458" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584188789016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1584188789016" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583608664064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583608664064" />
+  </component>
+</project>

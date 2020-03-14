@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="5" preserve-order="true" name="C:/Dev/POMTest" parallel="tests" >
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.BrowserSelector">
+                <methods>
+                    <include name="SetUpBrowser"/>
+                </methods>
+            </class>
+            <class name="Test.Basepage"></class>
+            <class name="Test.Homepage"></class>
+            <class name="Test.login"></class>
+            <class name="Test.Utils"></class>
+            <class name="Test.Loadprops">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+            <class name="Test.Hooks">
+                <methods>
+                    <include name="SetUpBrowser"/>
+                </methods>
+            </class>
+            <class name="Test.MyStepdefs"></class>
+            <class name="Test.RunTest"></class>
+
+        </classes>
+    </test>
+</suite>
